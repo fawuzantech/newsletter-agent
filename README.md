@@ -27,7 +27,7 @@ Here's a simple flowchart of how the agent works:
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 1. **Scraping News**  
    Using **Firecrawl SDK**, the agent fetches and parses content from target websites.  
    It extracts article titles, body text, and publication dates.
